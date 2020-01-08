@@ -1,4 +1,4 @@
-package carzanodev.genuniv.microservices.gateway;
+package carzanodev.genuniv.microservices.gateway.route;
 
 public enum RoutingSpecification {
     GENERAL_INFO(
